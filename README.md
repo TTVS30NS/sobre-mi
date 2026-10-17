@@ -1,7 +1,7 @@
 # sobre-mi
 
 # Hola, soy Emmanuel Aguirre Cifuentes
-Soy aprendiz del * SENA * en la tecnología de análisis y desarrollo de software * (ADSO) *.
+Soy aprendiz del *SENA* en la tecnología de análisis y desarrollo de software *(ADSO)*.
 
 ## Mis intereses
 -Aprender *github*.
