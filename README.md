@@ -43,4 +43,11 @@ Creo que cada proyecto es una oportunidad para aprender algo nuevo. Mi propósit
 
 Estoy comenzando mi camino en el desarrollo de software, y este perfil será el registro de mi progreso. 🚀
 
+# Lo que aprendí sobre conflictos en Git y GitHub
+
+* **Por qué falla el `git push`:** Cuando un compañero sube cambios primero a la misma rama (`main`), Git bloquea mi `push` (`[rejected] ... (fetch first)`) porque mi copia local está desactualizada frente al repositorio remoto[cite: 1].
+* **Sincronizar antes de subir:** Aprendí a descargar e integrar los cambios remotos usando `git pull` antes de volver a empujar mi trabajo[cite: 1].
+* **Resolver conflictos de fusión:** Cuando dos personas editan las mismas líneas en un archivo, Git pide revisar y decidir qué cambios conservar, guardar el archivo, hacer `git add` y completar el `commit` para fusionar.
+* **Completar el envío:** Una vez integrado o resuelto el conflicto, `git push` vuelve a funcionar con normalidad.
+
 ⭐ Gracias por visitar mi perfil. ¡Bienvenido a mi proceso de aprendizaje!
